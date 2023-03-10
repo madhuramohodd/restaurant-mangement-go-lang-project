@@ -1,4 +1,4 @@
-module golang-restaurant-management
+module restaurant-mangement-go-lang-project
 
 go 1.16
 

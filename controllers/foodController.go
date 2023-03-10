@@ -3,11 +3,11 @@ package controller
 import (
 	"context"
 	"fmt"
-	"golang-restaurant-management/database"
-	"golang-restaurant-management/models"
 	"log"
 	"math"
 	"net/http"
+	"restaurant-mangement-go-lang-project/database"
+	"restaurant-mangement-go-lang-project/models"
 	"strconv"
 	"time"
 

@@ -3,9 +3,9 @@ package helper
 import (
 	"context"
 	"fmt"
-	"golang-restaurant-management/database"
 	"log"
 	"os"
+	"restaurant-mangement-go-lang-project/database"
 	"time"
 
 	jwt "github.com/dgrijalva/jwt-go"
